@@ -1,0 +1,2 @@
+# Bỏ qua tất cả các tập tin trong thư mục node_modules
+node_modules/
